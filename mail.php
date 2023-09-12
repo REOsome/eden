@@ -1,7 +1,7 @@
 <?php
 
     $headers = array(
-        'Authorization: Bearer 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',
+        'Authorization: Bearer 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',
         'Content-Type: application/json'
     );
 
@@ -10,8 +10,8 @@
             array(
                 "to" => array(
                     array(
-                        "email" => 'ian.karanja@strathmore.edu',
-                        "name" => 'IK'
+                        "email" => 'Ryan.Odhiambo@strathmore.edu',
+                        "name" => 'Ryan E.O'
                     )
                 )
             )
